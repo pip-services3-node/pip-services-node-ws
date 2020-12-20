@@ -35,7 +35,7 @@ Clone this workspace to local disk
 
 Clone module repositories
 ```bash
-./checkout
+./checkout.ps1
 ```
 
 ## Acknowledgements
