@@ -28,4 +28,5 @@ git clone https://github.com/pip-services3-node/pip-services3-prometheus-node.gi
 git clone https://github.com/pip-services3-node/pip-services3-seneca-node.git
 git clone https://github.com/pip-services3-node/pip-services3-mqtt-node.git
 git clone https://github.com/pip-services3-node/pip-services3-kafka-node.git
+git clone https://github.com/pip-services3-node/pip-services3-nats-node.git
 git clone https://github.com/pip-services3-node/pip-services3-aws-node.git
